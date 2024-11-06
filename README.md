@@ -23,6 +23,7 @@ An Android application that fetches and displays current weather data using the 
 
 ## Setup
 Add Volley Dependency: Include the Volley library in your build.gradle file:
+
 1)
 dependencies {
     implementation 'com.android.volley:volley:1.2.1'
